@@ -1,6 +1,6 @@
 {
   "name": "qx-js-core",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "javascript fundation apis.",
   "main": "index.js",
   "repository": {
