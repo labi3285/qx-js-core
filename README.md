@@ -1,2 +1,2 @@
-# qx-js-core
-javascript foundation apis.
+# qx-jsbsc
+Javascript foundation apis.
