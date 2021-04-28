@@ -1,5 +1,5 @@
 
-import * as jsc from './base/index.js'
+import * as jsc from './source/index.js'
 
 jsc.log(123);
 

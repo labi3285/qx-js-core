@@ -1,0 +1,21 @@
+{
+  "name": "qx-js-core",
+  "version": "1.0.0",
+  "description": "javascript fundation apis.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labi3285/qx-js-core.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "base"
+  ],
+  "author": "labi3285",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/labi3285/qx-js-core/issues"
+  },
+  "homepage": "https://github.com/labi3285/qx-js-core#readme"
+}
